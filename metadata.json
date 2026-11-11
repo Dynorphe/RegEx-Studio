@@ -1,0 +1,6 @@
+{
+  "name": "RegEx Studio - .NET & JS 正则表达式在线测试工具",
+  "description": "支持 .NET 命名分组语法 (?<name>...) 与 (?'name'...)、上下双栏长文本比对、实时高亮、分组详情表、正则替换及速查表的纯静态正则表达式检查工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
