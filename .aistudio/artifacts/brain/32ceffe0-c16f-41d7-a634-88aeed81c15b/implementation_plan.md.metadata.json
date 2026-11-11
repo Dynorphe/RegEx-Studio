@@ -1,6 +1,6 @@
 {
-  "summary":  "Updated implementation plan covering the 4 UX and functional refinements: 1) Pattern input rainbow bracket & group tag highlighting synced with group colors; 2) In-place per-group text highlighting in match preview with floating hover tooltips showing group tags instead of leading inline badges; 3) Collapsible bottom panel, per-Match row expand/collapse with Expand All / Collapse All buttons, and draggable resizable table column headers; 4) Clean, concise UI labels removing verbose prefixes like \"上栏\" and \"下栏\".",
-  "updatedAt":  "2026-11-11T06:53:20.201304983Z",
+  "summary":  "Plan to fix the GitHub Actions deployment error (\"Dependencies lock file is not found\") by removing `cache: 'npm'` from `actions/setup-node@v4` and replacing `npm ci` with `npm install` in `.github/workflows/deploy.yml`.",
+  "updatedAt":  "2026-11-11T07:14:26.046458956Z",
   "requestFeedback":  true,
   "userFacing":  true
 }
